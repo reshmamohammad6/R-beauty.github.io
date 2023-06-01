@@ -577,7 +577,7 @@ nav.off__canvars--menu ul li ul li a:hover {
   transition: color 300ms ease 0s;
 }
 .search__area {
-  background: #cfcfcd none repeat scroll 0 0;
+  background: #000 none repeat scroll 0 0;
   box-shadow: 0 8px 10px rgba(0, 0, 0, 0.08);
   left: 0;
   position: fixed;
